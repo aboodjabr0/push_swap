@@ -263,15 +263,23 @@ The project is compiled with:
 - All dynamically allocated memory must be properly freed
 - Global variables are forbidden
 
-## 👤 Author
+## 👨‍💻 Author
 
-**asauafth**
-- 42 Student
+<div align="center">
 
-## 📄 License
+**Abdullah Sauafth**
 
-This project is part of the 42 School curriculum.
+📧 [jabr.abood@yahoo.com](mailto:jabr.abood@yahoo.com)  
+🐙 [GitHub Profile](https://github.com/aboodjabr0)
+
+*Made with ❤️ for 42 School*
+
+</div>
 
 ---
 
-*Made with ☕ at 42*
+<div align="center">
+
+**⭐ Star this repo if you found it helpful! ⭐**
+
+</div>
